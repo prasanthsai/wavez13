@@ -1,0 +1,4 @@
+window.opener.popUpClosed();
+
+self.close();
+
