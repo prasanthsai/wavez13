@@ -1,4 +1,5 @@
-<div class="linklist" >
+<div class="linklist" style="height:100%" >
+
 	<b>
 	<br>
 		<a href="#" onClick="javascript:cshow('roboceana'); javascript:chide('Puzzle'); javascript:chide('Desmond'); javascript:chide('Triathlon'); javascript:chide('Structures'); javascript:chide('Lectures'); javascript:chide('Open'); javascript:chide('Treasure'); javascript:chide('Gamedrome'); javascript:chide('MainQuiz'); javascript:chide('ProjectX'); javascript:chide('ResearchExpo'); javascript:chide('DailyEvents'); ">Roboceana</a><br>
@@ -19,15 +20,19 @@
 </div>
 
 
-<div class="linkcontent" id="Puzzle">
-	<center>
+<div class="linkcontent" id="Puzzle" >
+    <center >
 		<br><br><br>There’s a whole world out there to understand, but nothing is going to come easy. Anyone with confidence in their grey cells is welcome to the challenge of Puzzle Champ. This event keeps away from typical text book quizzing and scientific queries, dealing with a broader range of inquiry, enticing participants and engrossing them with puzzling puzzles.
 
 <br><br>
 <b>Contact details </b><br>
 
 	</center>
+<img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/puzzle.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+    
 </div>
+
 
 <div class="linkcontent" id="Desmond">
 	<center>
@@ -37,6 +42,9 @@
 <b>Contact details</b><br>
 Shashanka:9498053235, Prudvi Saroj: 8754437327, Netu:9003223364.
 	</center>
+<img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/desmod.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="Triathlon">
@@ -47,6 +55,9 @@ Shashanka:9498053235, Prudvi Saroj: 8754437327, Netu:9003223364.
 <b>Contact details of </b><br>
 D V Rakesh: 9500101516 ,Srikant: 9884682331, Suresh Kumar:9791164845
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/triathlon.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="Structures">
@@ -57,6 +68,9 @@ D V Rakesh: 9500101516 ,Srikant: 9884682331, Suresh Kumar:9791164845
 <b>Contact details </b><br>
 Pranav : 9489577068 Anivaran :9962609617 Raviteja:9884299766
 	</center>
+        <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/structure.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="Lectures">
@@ -67,6 +81,9 @@ Pranav : 9489577068 Anivaran :9962609617 Raviteja:9884299766
 <b>Contact details </b><br>
 
 	</center>
+       <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/lecture.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+ 
 </div>
 
 <div class="linkcontent" id="Open">
@@ -77,6 +94,9 @@ Pranav : 9489577068 Anivaran :9962609617 Raviteja:9884299766
 <b>Contact details </b><br>
 Mohit :9600089445 Atul:8939106690 Vani:9498073514 Amulya:9043812203
 	</center>
+        <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/open.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="Treasure">
@@ -87,7 +107,11 @@ Mohit :9600089445 Atul:8939106690 Vani:9498073514 Amulya:9043812203
 <b>Contact details </b><br>
 Shanmukh :9962670804 Apeksha:9043818803 Nikhil:9962250677
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/treasure.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
+
 
 <div class="linkcontent" id="Gamedrome">
 	<center>
@@ -97,6 +121,9 @@ Shanmukh :9962670804 Apeksha:9043818803 Nikhil:9962250677
 <b>Contact details </b><br>
 Vishal:9962670955 Vignesh:9444895414 Vamsi:9884685196
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/game.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="MainQuiz">
@@ -107,6 +134,9 @@ Vishal:9962670955 Vignesh:9444895414 Vamsi:9884685196
 <b>Contact details </b><br>
 Pranav : 9489577068 Anivaran :9962609617 Raviteja:9884299766
 	</center>
+        <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/structure.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="ProjectX">
@@ -117,6 +147,9 @@ Pranav : 9489577068 Anivaran :9962609617 Raviteja:9884299766
 <b>Contact details </b><br>
 Chaitanya :9498073495 Revath:9677165465
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/project.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="ResearchExpo">
@@ -129,6 +162,9 @@ Chaitanya :9498073495 Revath:9677165465
 <b>Contact details </b><br>
 Vardharajan :94456754997 Kavya :8148726481 Sakshi :949809052
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/research.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="DailyEvents">
@@ -139,6 +175,9 @@ Vardharajan :94456754997 Kavya :8148726481 Sakshi :949809052
 <b>Contact details </b><br>
 Ambedkar :8124223163
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/daily.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
 <div class="linkcontent" id="roboceana">
@@ -150,5 +189,8 @@ Ambedkar :8124223163
 
 Sanchit :9003208651 Mukesh :8056076294 Srinadh :843980903
 	</center>
+    <img src="images/black.jpg" style="height:100%; width:100%; opacity:0.4; z-index:-9; position:absolute; left:0%; top:0%" />
+<img src="images/robo.jpg" style="height:100%; width:100%; z-index:-10; position:absolute; left::0%; top:0%" />	
+
 </div>
 
