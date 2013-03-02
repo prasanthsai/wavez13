@@ -1,0 +1,31 @@
+<?php
+
+session_start();
+
+if( isset($_SESSION['username']) ) 
+	{
+?>
+		<span class="aright">
+		 <a href="#" onclick="javascript:window.open('login/logout.php','Logout','width=500,height=480,scrollbars=no,resizable=no,top=100,left=100')">Logout </a>
+		<a href="#"><?php echo" {$_SESSION['name_of_user']}"; ?></a>
+		</span>
+
+<?php
+	}
+
+else
+	{
+
+?>
+		<span class="aright">
+			<a  href="#" onclick="javascript:window.open('login/login.php','Login','width=500,height=480,scrollbars=no,resizable=no,top=100,left=100')">login</a> or 
+			<a  href="#" onclick="javascript:window.open('login/register.php','Registration','width=800,height=600,scrollbars=yes,resizable=no,top=100,left=100')">register</a>
+		</span>
+
+<?php
+
+	}
+?>
+
+
+</div>

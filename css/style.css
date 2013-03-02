@@ -1,0 +1,194 @@
+@font-face {
+	font-family: American_Purpose;
+	src: url('fonts/American_Purpose.otf');
+}
+
+@font-face {
+	font-family: Forgotte;
+	src: url('fonts/Forgotte.ttf');
+}
+
+	a:link {text-decoration:none; color:#7aa7bb; text-align:center;}
+	a:visited {text-decoration:none; color:#7aa7bb;} /* visited link */
+	a:hover {text-decoration:none; color:#A9CAD9;}   /* mouse over link */
+	a:active {text-decoration:none; color:#7aa7bb;}  /* selected link */
+
+	.links{
+		position:absolute;
+		width:90%;
+		left:5%;
+		top:7%;
+	}
+	
+	.item{
+		position:absolute;
+		
+		text-decoration:none;
+		cursor:pointer;
+	}
+
+	.home{
+		left:0%;
+		width:14.28%;
+	}
+
+	.dept{
+		width:14.28%;
+		left:14.28%;
+	}
+
+	.event{
+		width:14.28%;
+		left:28.56%;
+	}
+
+	.sponsors{
+		width:14.28%;
+		left:42.84%;
+	}
+
+	.hospitality{
+		width:14.28%;
+		left:57.12%;
+	}
+
+	.wavez12{
+		width:14.28%;
+		left:71.4%;
+	}
+
+	.contact{
+		width:14.28%;
+		left:85.68%;
+	}
+	
+	#main{
+		background:transparent;
+		line-height:170%;
+		font-family: Forgotte;
+		font-size: 18px;
+		font-style: normal;
+		letter-spacing: 1.4px;
+		position:fixed;
+		width:90%;
+		height:68%;
+		top:12%;
+		left:5%;
+		overflow-x:hidden;
+		overflow-y:auto;
+		opacity:0;
+		
+	}
+	
+	
+	.trans{
+		background:transparent;
+		position:fixed;
+		width:90%;
+		height:65%;
+		top:12%;
+		left:5%;
+		overflow-x:hidden;
+		overflow-y:auto;
+		opacity:1;
+		background: -moz-linear-gradient(left,  rgba(0,0,0,1) 0%, rgba(2,1,1,0) 40%, rgba(3,2,1,0) 60%, rgba(5,3,2,1) 100%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(0,0,0,1)), color-stop(40%,rgba(2,1,1,0)), color-stop(60%,rgba(3,2,1,0)), color-stop(100%,rgba(5,3,2,1))); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(2,1,1,0) 40%,rgba(3,2,1,0) 60%,rgba(5,3,2,1) 100%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(2,1,1,0) 40%,rgba(3,2,1,0) 60%,rgba(5,3,2,1) 100%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(left,  rgba(0,0,0,1) 0%,rgba(2,1,1,0) 40%,rgba(3,2,1,0) 60%,rgba(5,3,2,1) 100%); /* IE10+ */
+		background: linear-gradient(to right,  rgba(0,0,0,1) 0%,rgba(2,1,1,0) 40%,rgba(3,2,1,0) 60%,rgba(5,3,2,1) 100%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#050302',GradientType=1 ); /* IE6-9 */
+		
+	}
+	
+	.wave{
+		background:transparent;
+		position:fixed;
+		width:90%;
+		height:63%;
+		top:12%;
+		left:5%;
+		overflow-x:hidden;
+		overflow-y:hidden;
+		opacity:1;
+		
+
+				
+	}
+
+	.waveinner{
+		position:relative;
+		left:0%;
+		height:100%;
+		margin=auto;
+	}
+	
+	#imgalign{
+		top:50%;
+		left:50%;
+		width:10%;
+		position:fixed;
+		opacity:0;
+	}
+	
+	.homeimage{
+		position:fixed;
+		top:78%;
+		left:10%;
+		width:80%;
+		height:22%;
+	}
+
+	
+	.linklist{
+		position:absolute;
+		font-size: 22px;
+		left:3%;
+		width:15%;
+		top:0%;
+		height:100%;
+		overflow-x:hidden;
+		overflow-y:auto;
+	}
+
+	.linkcontent{
+		position:absolute;
+		left:20%;
+		top:0%;
+		height:100%;
+		overflow-x:hidden;
+		overflow-y:auto;
+		display:none;
+	}
+
+	.facebook{
+		left:1%;
+		bottom:2%;
+		position:absolute;
+	}
+
+	.updatebar{
+		top:2%;
+		left:15%;
+		position:absolute;
+		width:70%;
+		font-family: Forgotte;
+		font-size: 16px;
+		font-style: normal;
+		letter-spacing: 1.4px;
+	}
+	.loginstatus{
+		top:2%;
+		left:85%;
+		position:absolute;
+		width:15%;
+		font-family: Forgotte;
+		font-size: 16px;
+		font-style: normal;
+		letter-spacing: 1.4px;
+	}
+	.loginstatus .aright { float:right }
+
+
+
+
