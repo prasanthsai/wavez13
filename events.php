@@ -35,7 +35,7 @@ Sai Nithin Krishna: 9884311892 and Srinija: 8148839328
 
 <br><br>
 <b>Contact details of core team</b><br>
-Sai Nithin Krishna: 9884311892 and Srinija: 8148839328
+Sai Nithin Krishna: 9884311892 and Srinija: 8148839328.
 	</center>
 </div>
 
